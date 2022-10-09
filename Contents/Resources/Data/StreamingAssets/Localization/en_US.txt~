@@ -434,7 +434,8 @@ mammothriders.title=Всадники на мамонтах
 margaerytyrell.title=Маргери Тирелл
 massingonthemilkwater.title=Сбор на Молоководной
 melisandre.title=Мелисандра
-nymeriasand.description=Если вы защищаетесь, Нимерия получает <sprite name=fortification>, если атакуете – <sprite name=fortification>.
+nymeriasand.description=Если вы защищаетесь, Нимерия получает <sprite
+name=fortification>, если атакуете – <sprite name=sword>.
 nymeriasand.title=Нимерия Сэнд
 obarasand.title=Обара Сэнд
 patchface.description=После боя можете изучить карты на руке противника и
